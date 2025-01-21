@@ -1,0 +1,12 @@
+D:\StudentVsto\MySharedLibrary\bin\Debug\MySharedLibrary.dll
+D:\StudentVsto\MySharedLibrary\bin\Debug\MySharedLibrary.pdb
+D:\StudentVsto\MySharedLibrary\obj\Debug\MySharedLibrary.csproj.AssemblyReference.cache
+D:\StudentVsto\MySharedLibrary\obj\Debug\MySharedLibrary.csproj.CoreCompileInputs.cache
+D:\StudentVsto\MySharedLibrary\obj\Debug\MySharedLibrary.dll
+D:\StudentVsto\MySharedLibrary\obj\Debug\MySharedLibrary.pdb
+C:\Users\AAT\source\repos\StudentVsto\MySharedLibrary\bin\Debug\MySharedLibrary.dll
+C:\Users\AAT\source\repos\StudentVsto\MySharedLibrary\bin\Debug\MySharedLibrary.pdb
+C:\Users\AAT\source\repos\StudentVsto\MySharedLibrary\obj\Debug\MySharedLibrary.csproj.AssemblyReference.cache
+C:\Users\AAT\source\repos\StudentVsto\MySharedLibrary\obj\Debug\MySharedLibrary.csproj.CoreCompileInputs.cache
+C:\Users\AAT\source\repos\StudentVsto\MySharedLibrary\obj\Debug\MySharedLibrary.dll
+C:\Users\AAT\source\repos\StudentVsto\MySharedLibrary\obj\Debug\MySharedLibrary.pdb
